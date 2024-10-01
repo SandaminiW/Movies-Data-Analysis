@@ -7,7 +7,7 @@ This project focuses on analyzing movie data to uncover insights and trends. The
 
  ## Libraries Commonly Used in Movie Data Analysis:
  
-Pandas: For data manipulation (loading, cleaning, transforming data).
-NumPy: For numerical operations and handling arrays.
-Matplotlib/Seaborn: For creating visualizations like graphs and plots.
+Pandas: For data manipulation (loading, cleaning, transforming data).<br>
+NumPy: For numerical operations and handling arrays.<br>
+Matplotlib/Seaborn: For creating visualizations like graphs and plots.<br>
 Scikit-learn: For correlation analysis and possibly more advanced machine learning techniques.
